@@ -1,0 +1,6 @@
+default: 
+  weburl: "https://en.wikipedia.org/w/index.php?title=S%26P/TSX_Composite_Index"
+  tablenumber: 2
+  repetitions: 100
+  startdate: "2021-07-01"
+  enddate: "2021-11-10"
